@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinit Yadav</h1>
 <h3 align="center">A Passionate Fullstack Developer</h3>
 
-- 🌱 I’m currently learning **Building AI Agents**
+- 🌱 I’m currently learning to **Build AI Agents**
 
 - 👯 I’m looking to collaborate on **Innovative and Impactful Projects**
 
