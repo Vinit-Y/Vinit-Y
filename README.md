@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vinit Yadav</h1>
 <h3 align="center">A Passionate Fullstack Developer</h3>
 
-- 🌱 I’m currently learning **Cloud Technologies**
+- 🌱 I’m currently learning **Building AI Agents**
 
-- 👯 I’m looking to collaborate on **Innovative Fullstack projects**
+- 👯 I’m looking to collaborate on **Innovative and Impactful Projects**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Next.js, Node.js, MySQL, PostgreSQL, AWS, GCP**
+- 💬 Ask me about **Web Development** and **Cloud Technologies**
 
 - 📫 How to reach me **yadav.vini@northeastern.edu**
 
